@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/home/atila.rampazo/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-3052559809.index
-1865797976.index
